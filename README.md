@@ -1,0 +1,1 @@
+# purescan-ai-helper
