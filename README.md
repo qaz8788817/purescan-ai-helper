@@ -28,6 +28,9 @@ PureScan AI Helper is a zero-friction mobile companion built using Streamlit and
 
 Goto [Google API (https://aistudio.google.com/)] apply a free Gemini API and copy-paste to line 37.
 
+
+## Run
+```streamlit run purescan_ai_helper.py```
 ---
 
 ## 介面
