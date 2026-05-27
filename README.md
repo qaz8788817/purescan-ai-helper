@@ -30,7 +30,10 @@ Goto [Google API (https://aistudio.google.com/)] apply a free Gemini API and cop
 
 
 ## Run
-```streamlit run purescan_ai_helper.py```
+
+```
+streamlit run purescan_ai_helper.py
+```
 ---
 
 ## 介面
